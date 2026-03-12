@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou a Natália! 👋
 
-<!--
-**nunesaluna/nunesaluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil! Sou uma desenvolvedora em evolução, focada em criar soluções modernas e funcionais para a web. Atualmente, estou mergulhando de cabeça no ecossistema do **React.js**.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 🎓 Estudante de Front-end pelo IFMG.
+- 🎓 Estudante de Análise de Sistemas pela faculdade UNINTER.
+- 💻 Atualmente desenvolvendo projetos com **React**, **Vite** e **JavaScript (ES6+)**.
+- 🌱 Constantemente aprendendo sobre arquitetura de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Minhas Habilidades
+- **Linguagens:** HTML5, CSS3, JavaScript (ES6+).
+- **Frameworks/Bibliotecas:** React.js.
+- **Ferramentas:** Git, GitHub, VS Code, Vercel.
+
+📫 **Como me encontrar:**
+Confira meus dados no currículo interativo desenvolvido em React, com Flexbox, CSS Grid e o Framework Tailwind CSS.: [Clique aqui para visualizar](https://meu-curriculo-react-8f64.vercel.app/)
