@@ -13,6 +13,5 @@ Bem-vindo(a) ao meu perfil! Sou uma desenvolvedora em evolução, focada em cria
 - **Frameworks/Bibliotecas:** React.js.
 - **Ferramentas:** Git, GitHub, VS Code, Vercel.
 
-📫 **Como me encontrar:**
-
+## 📫 **Como me encontrar:**
 Confira meus dados no currículo interativo desenvolvido em React, com Flexbox, CSS Grid e o Framework Tailwind CSS.: [Clique aqui para visualizar](https://meu-curriculo-react-8f64.vercel.app/)
