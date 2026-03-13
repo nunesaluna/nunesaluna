@@ -11,7 +11,7 @@ Bem-vindo(a) ao meu perfil! Sou uma desenvolvedora em evolução, focada em cria
 ## 🛠️ Minhas Habilidades
 - **Linguagens:** HTML5, CSS3, JavaScript (ES6+).
 - **Frameworks/Bibliotecas:** React.js.
-- **Ferramentas:** Git, GitHub, VS Code, Vercel.
+- **Ferramentas:** Git, GitHub, VS Code, Vercel, vite.
 
 ## 📫 **Como me encontrar:**
-Confira meus dados no currículo interativo desenvolvido em React, com Flexbox, CSS Grid e o Framework Tailwind CSS.: [Clique aqui para visualizar](https://meu-curriculo-react-8f64.vercel.app/)
+Confira meus dados no currículo: [Clique aqui para visualizar](https://meu-curriculo-react-8f64.vercel.app/)
