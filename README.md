@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu perfil! Sou uma desenvolvedora em evolução, focada em cria
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de Front-end pelo IFMG.
-- 🎓 Estudante de Análise de Sistemas pela faculdade UNINTER.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela faculdade UNINTER.
 - 💻 Atualmente desenvolvendo projetos com **React**, **Vite** e **JavaScript (ES6+)**.
 - 🌱 Constantemente aprendendo sobre desenvolvimento de sistemas.
 
